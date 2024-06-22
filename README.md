@@ -10,8 +10,7 @@
 
 
 ## Connect with me:
-[![Instagram](https://img.shields.io/badge/Abhi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abhi.__.g/?igshid=YmMyMTA2M2Y=) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-gupta-790427200/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-khan-bb533a1a1/)
 
 
 ## Languages and Tools ⚙️:
